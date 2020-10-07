@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/grid-faces/static/css/main.d36d1650.chunk.css",
+    "main.js": "/grid-faces/static/js/main.286f8d64.chunk.js",
+    "main.js.map": "/grid-faces/static/js/main.286f8d64.chunk.js.map",
+    "runtime-main.js": "/grid-faces/static/js/runtime-main.e185cd73.js",
+    "runtime-main.js.map": "/grid-faces/static/js/runtime-main.e185cd73.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/grid-faces/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.f589081b.chunk.js": "/grid-faces/static/js/2.f589081b.chunk.js",
+    "static/js/2.f589081b.chunk.js.map": "/grid-faces/static/js/2.f589081b.chunk.js.map",
+    "index.html": "/grid-faces/index.html",
+    "precache-manifest.1b53924c40e1ea19417f5d37d277c226.js": "/grid-faces/precache-manifest.1b53924c40e1ea19417f5d37d277c226.js",
+    "service-worker.js": "/grid-faces/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/grid-faces/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.d36d1650.chunk.css.map": "/grid-faces/static/css/main.d36d1650.chunk.css.map",
+    "static/js/2.f589081b.chunk.js.LICENSE.txt": "/grid-faces/static/js/2.f589081b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e185cd73.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.f589081b.chunk.js",
+    "static/css/main.d36d1650.chunk.css",
+    "static/js/main.286f8d64.chunk.js"
+  ]
+}
